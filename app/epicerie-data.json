@@ -1,0 +1,22 @@
+{
+    "epicerieItems": [
+        {
+            "id":1,
+            "name":"Vodka",
+            "done":false,
+            "deleted":false
+        },
+        {
+            "id":2,
+            "name":"Whisky",
+            "done":true,
+            "deleted":false
+        },
+        {
+            "id":3,
+            "name":"Rhum",
+            "done":false,
+            "deleted":false
+        }
+    ]
+}
