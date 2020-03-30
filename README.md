@@ -1,8 +1,15 @@
-# NativeScript-Vue Application
+## Fonctionnalités 
 
-> A native application built with NativeScript-Vue
+``` bash
+<ul>
+    <li>Données locales persistantes</li>
+    <li>Données multimédias (appareil photo) sans storage</li>
+    <li>Début API REST (seulement connection) </li>
+</ul>
 
-## Usage
+```
+
+## Guide d'installation
 
 ``` bash
 # Install dependencies
@@ -21,3 +28,7 @@ tns debug <platform>
 tns build <platform> --env.production
 
 ```
+
+Si vous rencontrez un problème ou avez une erreur, n'hésitez pas à me contacter : theohelf@gmail.com
+
+# PS : Je ne suis pas alcoolic
