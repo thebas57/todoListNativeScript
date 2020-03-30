@@ -5,7 +5,7 @@
 <ul>
     <li>Données locales persistantes</li>
     <li>Données multimédias (appareil photo) sans storage</li>
-    <li>Début API REST (seulement connection) </li>
+    <li>Début API REST (seulement connection + récupération tâches) </li>
 </ul>
 
 
